@@ -1,0 +1,3 @@
+DROP TABLE authors CASCADE;
+DROP TABLE podcasts CASCADE;
+DROP TABLE episodes CASCADE;
